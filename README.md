@@ -11,18 +11,22 @@ The purpose of the game is to be the first player to move their king to the eigh
 
 Apart from the above, pieces move and capture exactly as in normal chess.
 
+**Final Grade: 19.5/20**
+
 ## Zurero
 
 This game is an interesting variation of Go-Moku, in which players "slide" stones along the board lines from the edge of the board till the "sliding" stone is stopped by another stone on the board.
 
 The intriguing feature of the game is that the "sliding" stone pushes the "stopping" stone if there is an empty space behind it.
 
+**Final Grade: 19.6/20**
+
 ## Houses
 
 This project is based on a CLPFD (Constraint Logic Programming with Finite Domains) solution.
 The Houses Puzzle’s is a puzzle created by Erich Friedman, a puzzles enthusiast, with the objective of connecting pairs of houses so that there are at max two different distances. These pairs of houses, with only one connection each, are created with the elements of a list with even number of house coordinates, which is the puzzle’s input.
 
-
+**Final Grade: 18.9/20**
 
 
 # PROLOG CONVENTIONS FOR BETTER CODE
